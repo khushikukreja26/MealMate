@@ -35,6 +35,8 @@ This project was created to satisfy the following **assignment requirements**:
 - Displays the app name “MealMate” with a gradient background.
 - A **Start** button takes the user to the Home screen.
 - UI created with custom gradient backgrounds and frosted card layouts.
+- <img width="363" height="773" alt="image" src="https://github.com/user-attachments/assets/cbdb4d6a-adfd-4305-bd1e-9d8a2a3a04ec" />
+
 
 ### 🍴 2. Home Screen
 - The core dashboard of the app.
@@ -45,6 +47,8 @@ This project was created to satisfy the following **assignment requirements**:
 - Data fetched **simultaneously using RxKotlin’s `Single.zip()`**.
 - During data loading, a **shimmer effect** placeholder animates on screen.
 - Clicking on any meal or category navigates to its detailed view.
+- <img width="340" height="754" alt="image" src="https://github.com/user-attachments/assets/ae87549f-c0bf-4b02-8a9e-6a27807be831" />
+
 
 ### 🍳 3. Detail Screen
 - Displays complete details of a selected item:
@@ -52,6 +56,8 @@ This project was created to satisfy the following **assignment requirements**:
   - A **structured ingredients table** showing ingredient–measure pairs.
 - A **“View Recipe”** button opens the Recipe Instructions page.
 - Clean layout ensures readability and modern aesthetics.
+- <img width="344" height="683" alt="image" src="https://github.com/user-attachments/assets/bd3ecdbd-658d-4155-8c42-f73cf5cd5bc1" />
+
 
 ### 📜 4. Recipe Screen
 - Displays a well-formatted recipe guide.
@@ -59,6 +65,8 @@ This project was created to satisfy the following **assignment requirements**:
 - Steps are **justified**, visually aligned, and easy to read.
 - Includes a **Share** button to share the recipe text.
 - Fully consistent with the app’s theme and design language.
+- <img width="325" height="729" alt="image" src="https://github.com/user-attachments/assets/d7481d4f-fa86-4fe3-ac45-cb6a2471b33c" />
+
 
 ---
 
@@ -101,7 +109,7 @@ Single.zip(
 	•	Parsing or network timeout errors
 
 ## 🎨 UI and Design Details
-### •	Jetpack Compose: Entire UI is built using composables (no XML)
+	•	Jetpack Compose: Entire UI is built using composables (no XML)
 	• Color Theme: Gradient backgrounds (primary blue → violet) for consistent branding
 	•	Typography: Bold headers, smooth rounded buttons, readable justified text
 	•	Reusable UI Components:
@@ -123,16 +131,16 @@ Single.zip(
 
 👨‍💻 Author
 
-Your Name
+Khushi Kukreja
 🎓 B.Tech (CSE), VIT Bhopal University
 💼 Android Developer | Kotlin | Compose | AI Integration
 
-🌐 GitHub￼
-🔗 LinkedIn￼
+🌐 GitHub : https://github.com/khushikukreja26
+🔗 LinkedIn : https://www.linkedin.com/in/khushi-kukreja-217959251/
 
 ⸻
 
 🪪 License
 
-This project uses free, publicly available data from TheMealDB.com￼.
+This project uses free, publicly available data from TheMealDB.com
 Source code © 2025 – Created for educational and demonstration purposes.
